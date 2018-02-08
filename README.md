@@ -179,10 +179,10 @@ Execution time: 40.4251519441605
 ```
 
 ## Contributing
-Contributions are more than welcome! If you have an improvement or a feature you wish to have added to `trapecies-method`, then please don't hesitate to send a pull request!
+Contributions are more than welcome! If you have an improvement or a feature you wish to have added to `trapezoidal-rule`, then please don't hesitate to send a pull request!
 
 ## Author
 [Nikita Dolmatov](https://github.com/SpektrEG)
 
 ## License
-`trapecies-method` is available under the MIT license. See the LICENSE file for more info.
+`trapezoidal-rule` is available under the MIT license. See the LICENSE file for more info.
